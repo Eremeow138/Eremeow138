@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="/header.png"/></h1>
+<img src="/header.png"/>
+
+[![codewars](https://www.codewars.com/users/Eremeow138/badges/large)](https://www.codewars.com/users/Eremeow138) 
+
+![Metrics](https://metrics.lecoq.io/Eremeow138?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=full-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FIrkutsk)
